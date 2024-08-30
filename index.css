@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    font-size: 28px;
+    color: aliceblue;
+    background: black;
+    flex-direction: column;
+}
+p{
+    font-size: 50px;
+}
